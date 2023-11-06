@@ -1,5 +1,6 @@
 package say_hello
 
-func SayHello string(){
+// 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
+func SayHello() string {
 	return "HELLO"
 }
